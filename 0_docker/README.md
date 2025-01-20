@@ -5,7 +5,6 @@
 - 두가지 프레임워크(django, flask)로 예제를 확인할 수 있다.
 
 .
-.
 ## 실습 절차
 1. 가상머신을 만들때 NAT 네트워크를 지정한다.
 2. 실습에 사용된 80,81번 포트 포워딩을 등록한다.
@@ -14,11 +13,8 @@
 3. vm 내부에서 도커를 설치하여 도커 호스트를 생성한다.
 4. 하단의 다양한 명령어를 사용해보면서 실습을 진행한다.
 
-&nbsp;&nbsp;
-
------
-
-&nbsp;&nbsp;
+---
+.
 
 #### docker compose 관련 명령
 - docker compose up -d --build
@@ -26,7 +22,7 @@
 - docker compose down
   생성된 컨테이너를 모두 종료한다
 
-&nbsp;&nbsp;
+.
 
 #### 파이썬 가상환경 관련 명령
 - pyenv activate <id>
@@ -34,7 +30,7 @@
 - source deactivate
   환경에서 빠져나온다
 
-&nbsp;&nbsp;
+.
 
 #### 디버그 관련 명령
 - docker logs <id>
@@ -42,7 +38,7 @@
 - docker container exec -it <id> /bin/bash
   해당 컨테이너에 들어가 터미널을 실행한다.
 
-&nbsp;&nbsp;
+.
 
 #### 컨테이너 관련 명령
 - docker container run --name postgrestest \
@@ -55,5 +51,3 @@
 - docker container run -d --name nginxtest \
   --network mynet02 \
   -p 81:81 mynginx02f   
-
-&nbsp;&nbsp;
