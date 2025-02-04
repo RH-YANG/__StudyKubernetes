@@ -1,4 +1,4 @@
-## 🙌 안녕하세요. EASYME.md를 만든 원아입니다! 
+## 🙌 수정했다면?
 
 ## ❓ EASYME.md가 뭐예요?   
 - **EASYME.md**는 **<u>개발자가 README.md를 좀 더 쉽게 작성할 수 있도록</u>** 하기 위해 만들었어요.   
@@ -18,16 +18,24 @@
 
 ## 🛠 기능 엿보기   
 
-1. [❓ EASYME.md가 뭐예요?  ](#-easymemd가-뭐예요)
-2. [🙋‍♀️ 좀 더 구체적으로 가르쳐주세요!](#-좀-더-구체적으로-가르쳐주세요)
-3. [🛠 기능 엿보기](#-기능-엿보기)
-    - [Header](#header)   
-    - [Text Style1](#text-style1)   
-    - [Text Stlye2](#text-style2)   
-    - [List](#list)      
-    - [Link](#link)   
-    - [Code Block](#code-block)   
-    - [Table](#table)   
+- [🙌 수정했다면?](#-수정했다면)
+- [❓ EASYME.md가 뭐예요?](#-easymemd가-뭐예요)
+- [🙋‍♀️ 좀 더 구체적으로 가르쳐주세요!](#️-좀-더-구체적으로-가르쳐주세요)
+- [🛠 기능 엿보기](#-기능-엿보기)
+- [Header](#header)
+- [Text Style1](#text-style1)
+- [Text Style2](#text-style2)
+- [List](#list)
+  - [Table of contents](#table-of-contents)
+  - [Unordered list](#unordered-list)
+  - [Ordered list](#ordered-list)
+- [Link](#link)
+  - [General link](#general-link)
+  - [Image link](#image-link)
+- [Code Block](#code-block)
+  - [Code inline](#code-inline)
+  - [Code block](#code-block-1)
+- [Table](#table)
    
 ## Header
 - # H1 Header   
