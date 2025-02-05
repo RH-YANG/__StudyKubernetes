@@ -16,24 +16,24 @@
     - 컨테이너 : Docker
     - 오케스트레이션 : Docker Compose
     - IaC : Terraform
-<br>
+
 ### 🔸 front
 - 화면단 서비스의 소스코드를 담고있다
 - 기술스택
     - 언어 : JavaScript
     - UI 라이브러리 : React
-<br>
+
 ### 🔸 back 
 - 서버단 서비스의 소스코드를 담고있다
 - 기술스택
     - 언어 : Python
     - 프레임워크 : FastAPI
-<br>
+
 ### 🔸 db
 - 데이터베이스 구성과 관련된 소스코드를 담고 있다
 - 기술스택
   - dbms : PostgreSQL
-<br>
+
 ### 🔸 drug-module
 - ㅓㅏㅣ
 ### 🔸 __config
