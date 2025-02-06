@@ -7,6 +7,7 @@
 <br><br><br>
 
 
+![deinon-아키텍쳐](assets/deinon-아키텍처.png)
 
 ## 🗂 레파지토리 구성
 ### 🔸 infra
@@ -16,7 +17,7 @@
     - 컨테이너 : Docker
     - 오케스트레이션 : Docker Compose
     - IaC : Terraform
-<br>
+
 ### 🔸 front
 - 화면단 서비스의 소스코드를 담고있음
 - 기술스택
