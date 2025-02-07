@@ -9,6 +9,7 @@
 
 
 ## 🏗️ 플랫폼 개발 정성 목표
+
 <img src="./assets/msa.png" width="400" style="display: block; margin: auto;" />
 
 - Micro Service Architecture (MSA)
