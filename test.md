@@ -11,7 +11,7 @@
 
 
 ## 플랫폼 개발 정성 목표
-<!-- <img src="./assets/msa.png" width="400" style="display: block; margin: auto;" /> -->
+<img src="./assets/msa.png" width="400" style="display: block; margin: auto;" />
 - Micro Service Architecture (MSA)
     - 독립적인 서비스들로 구성(의존성 문제 최소화)
     - 서비스별 레파지토리 명 : DevOps(infra), 프론트(front), 백엔드(back), DB(db), 다수의 모듈들(drug-module)
