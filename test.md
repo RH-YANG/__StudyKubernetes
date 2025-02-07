@@ -2,7 +2,7 @@
 <br>
 
 ### 📋 항목 바로가기
-1. [🏗️ 플랫폼 개발 정성 목표](#플랫폼-개발-정성-목표)
+1. [🏗️ 플랫폼 개발 정성 목표](#-플랫폼-개발-정성-목표)
 2. [🗂 레파지토리 구성](#-레파지토리-구성)
 3. [📟 개발 컨밴션](#-개발-컨밴션)
 <br><br><br>
@@ -16,7 +16,7 @@
 
 
 ## 🏗️ 플랫폼 개발 정성 목표
-
+<br>
 <img src="./assets/msa.png" width="400" style="display: block; margin: auto;" />
 
 - Micro Service Architecture (MSA)
